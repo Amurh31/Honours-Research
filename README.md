@@ -1,2 +1,2 @@
 # Honours-Research
-Large Language Model 
+This research investigates the fine-tuning of the XLM-RoBERTa Base multilingual transformer model for isiZulu text classification using the OPUS dataset. By adapting a large-scale pretrained model to a low-resource, morphologically rich language, the study aims to improve classification accuracy and enhance NLP capability for isiZulu. The work contributes to closing the resource gap in African language processing and supports the development of domain-specific isiZulu language technologies.
